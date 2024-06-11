@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Jethe</h1>
-<h3 align="center">A passionate Data Scientist from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Analyst  from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsjethe&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsjethe" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a Final Year project for Btech on **Quantitative Finance Management**
 
-- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence and Algorithmic Trading **
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarsjethe/omkarsjethe](https://github.com/omkarsjethe/omkarsjethe)
 
