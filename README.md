@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/omkarjethe09" target="blank"><img src="https://img.shields.io/twitter/follow/omkarjethe09?logo=twitter&style=for-the-badge" alt="omkarjethe09" /></a> </p>
 
-- 🔭 I’m currently working on a Final Year project for Btech on **Quantitative Finance Management**
+- 🔭 I have completed my Bachelor's in Computer Engineering and my  Final Year project for B.Tech on **Quantitative Finance Management**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Algorithmic Trading **
+- 🌱 I’m currently learning **Artificial Intelligence for  Algorithmic Trading **
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarsjethe/omkarsjethe](https://github.com/omkarsjethe/omkarsjethe)
 
