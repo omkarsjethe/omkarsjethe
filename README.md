@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarsjethe/omkarsjethe](https://github.com/omkarsjethe/omkarsjethe)
 
-- 📫 How to reach me **omkaarjethe@gmail.com**
+- 📫 You can reach me **omkaarjethe@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
