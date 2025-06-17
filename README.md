@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Jethe</h1>
-<h3 align="center">A passionate Quantitative Researcher at Two Sigma 🇮🇳</h3>
+<h3 align="center">Machine Learning Engineer || AI Engineer || Data Scientist || Data Analyst 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsjethe&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsjethe" /> </p>
 
