@@ -9,7 +9,7 @@
 
 - 🔭 I have completed my Bachelor's in Computer Engineering and my  Final Year project for B.Tech on **Quantitative Finance Management**
 
-- 🌱 I’m currently learning **Artificial Intelligence for  Algorithmic Trading **
+- 🌱 I’m currently learning Artificial Intelligence for  Algorithmic Trading
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarsjethe/omkarsjethe](https://github.com/omkarsjethe/omkarsjethe)
 
