@@ -44,3 +44,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsjethe&show_icons=true&locale=en" alt="omkarsjethe" /></p>
 
 
+## 🧮 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsjethe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarsjethe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsjethe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+
+
