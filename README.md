@@ -44,13 +44,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsjethe&show_icons=true&locale=en" alt="omkarsjethe" /></p>
 
 
-## 🧮 GitHub Stats & Streak
-
-## 🗓️ GitHub Contribution Calendar
+## 📈 My GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/omkarsjethe" alt="Omkar Jethe's Github chart" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=omkarsjethe" alt="Contribution Grid" />
 </p>
+
 
 
 
