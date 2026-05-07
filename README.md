@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Jethe</h1>
-<h3 align="center">Automation Testing || SDET ||Manual testing || Machine Learning  || Artificial Intelligence || Data Science || Data Analytics  🇮🇳</h3>
+<h3 align="center">Data Analyst || Analyst||Financial Analyst|| Machine Learning  || Artificial Intelligence || Data Science || Data Analytics  🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarsjethe&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsjethe" /> </p>
 
